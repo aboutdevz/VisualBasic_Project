@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Random Message\Random Message\bin\Debug\Random Message.exe.config
+C:\Users\Asus\source\repos\Random Message\Random Message\bin\Debug\Random Message.exe
+C:\Users\Asus\source\repos\Random Message\Random Message\bin\Debug\Random Message.pdb
+C:\Users\Asus\source\repos\Random Message\Random Message\bin\Debug\Random Message.xml
+C:\Users\Asus\source\repos\Random Message\Random Message\obj\Debug\Random Message.vbprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Random Message\Random Message\obj\Debug\Random_Message.Form1.resources
+C:\Users\Asus\source\repos\Random Message\Random Message\obj\Debug\Random_Message.Resources.resources
+C:\Users\Asus\source\repos\Random Message\Random Message\obj\Debug\Random Message.vbproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Random Message\Random Message\obj\Debug\Random Message.exe
+C:\Users\Asus\source\repos\Random Message\Random Message\obj\Debug\Random Message.xml
+C:\Users\Asus\source\repos\Random Message\Random Message\obj\Debug\Random Message.pdb
