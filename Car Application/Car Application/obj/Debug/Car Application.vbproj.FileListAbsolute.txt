@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Car Application\Car Application\bin\Debug\Car Application.exe.config
+C:\Users\Asus\source\repos\Car Application\Car Application\bin\Debug\Car Application.exe
+C:\Users\Asus\source\repos\Car Application\Car Application\bin\Debug\Car Application.pdb
+C:\Users\Asus\source\repos\Car Application\Car Application\bin\Debug\Car Application.xml
+C:\Users\Asus\source\repos\Car Application\Car Application\obj\Debug\Car Application.vbprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Car Application\Car Application\obj\Debug\Car_Application.Form1.resources
+C:\Users\Asus\source\repos\Car Application\Car Application\obj\Debug\Car_Application.Resources.resources
+C:\Users\Asus\source\repos\Car Application\Car Application\obj\Debug\Car Application.vbproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Car Application\Car Application\obj\Debug\Car Application.exe
+C:\Users\Asus\source\repos\Car Application\Car Application\obj\Debug\Car Application.xml
+C:\Users\Asus\source\repos\Car Application\Car Application\obj\Debug\Car Application.pdb
+C:\Users\Asus\source\repos\Car Application\Car Application\obj\Debug\Car_Application.NewCar.resources
