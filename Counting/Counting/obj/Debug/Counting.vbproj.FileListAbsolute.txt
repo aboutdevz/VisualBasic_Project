@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Counting\Counting\bin\Debug\Counting.exe.config
+C:\Users\Asus\source\repos\Counting\Counting\bin\Debug\Counting.exe
+C:\Users\Asus\source\repos\Counting\Counting\bin\Debug\Counting.pdb
+C:\Users\Asus\source\repos\Counting\Counting\bin\Debug\Counting.xml
+C:\Users\Asus\source\repos\Counting\Counting\obj\Debug\Counting.vbprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Counting\Counting\obj\Debug\Counting.Form1.resources
+C:\Users\Asus\source\repos\Counting\Counting\obj\Debug\Counting.Resources.resources
+C:\Users\Asus\source\repos\Counting\Counting\obj\Debug\Counting.vbproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Counting\Counting\obj\Debug\Counting.exe
+C:\Users\Asus\source\repos\Counting\Counting\obj\Debug\Counting.xml
+C:\Users\Asus\source\repos\Counting\Counting\obj\Debug\Counting.pdb
